@@ -9,14 +9,11 @@ Tensorflowなどの機械学習やディープラーニング用のライブラ�
 
 ### 主な２つの方法
 
-- 1.Anacondaと一緒にJupyter Notebookもインストール
-- 2.Jupyter Notebookだけをインストール
+1.Anacondaと一緒にJupyter Notebookもインストール
+**Anaconda**とは、**データサイエンスに特化したプラットフォーム**で、データサイエンスに適したライブラリや便利な機能を持っている。
 
-- 1.Anacondaと一緒にJupyter Notebookもインストール
-  **Anaconda**とは、**データサイエンスに特化したプラットフォーム**で、データサイエンスに適したライブラリや便利な機能を持っている。
-
-- 2.Jupyter Notebookだけをインストール
-  pipを利用して、インストール
+2.Jupyter Notebookだけをインストール
+pipを利用して、インストール
 
   // Python3.x
   ```
@@ -63,6 +60,7 @@ Tensorflowなどの機械学習やディープラーニング用のライブラ�
   
   - ipywidgets
   
+
   
 ## Jupyter Notebookでのファイル共有
 
